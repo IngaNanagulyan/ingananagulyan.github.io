@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Обо Мне
 permalink: /about/
 ---
 
-Some information about you!
+Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что тот обеспечивает более или менее стандартное заполнение шаблона
 
-### More Information
+### Контакты
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[inga.nanagulyan@outlook.com](mailto:inga.nanagulyan@outlook.com)
